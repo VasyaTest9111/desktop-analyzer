@@ -1,0 +1,22 @@
+# Pytest and coverage
+.pytest_cache/
+__pycache__/
+*.pyc
+.coverage
+htmlcov/
+.coveragerc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
